@@ -40,7 +40,7 @@ The price ranges from Rs 50-1 Lakhs which can be used by various scientist and s
 # Detail requirements
 ## High Level Requirements:
 --- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+[HLR Table.docx](https://github.com/99003781/N8-Calculator/files/5975384/HLR.Table.docx)
 
 
 ##  Low level Requirements:
