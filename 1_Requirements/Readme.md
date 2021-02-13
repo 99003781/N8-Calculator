@@ -13,7 +13,7 @@ The price ranges from Rs 50-1 Lakhs which can be used by various scientist and s
 ## Defining Our System
     -- TBD
 ## SWOT ANALYSIS
-![SWOT-Sample](Link to Pic)
+![Capture](https://user-images.githubusercontent.com/78867425/107847807-b9c48f00-6e14-11eb-9598-0ddc49f4c83b.PNG)
 
 # 4W&#39;s and 1&#39;H
 
