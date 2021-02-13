@@ -40,6 +40,7 @@ The price ranges from Rs 50-1 Lakhs which can be used by various scientist and s
 # Detail requirements
 ## High Level Requirements:
 --- TBD in Tabular Format 
+
 ![CaptureHLR](https://user-images.githubusercontent.com/78867425/107847896-5555ff80-6e15-11eb-9993-c6f399df92cf.PNG)
 
 
