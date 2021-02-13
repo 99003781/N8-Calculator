@@ -1,14 +1,15 @@
 # Requirements
 ## Introduction
-The Research has been divided on the basis of cost and features of different calculators. The price ranges from Rs 50-1 Lakhs which can be used by various scientist and scholars. The first category includes less number of features at lower cost. Here the features include basic arithmetic operations. Next category of calculators includes medium number of features, again at lower price. It includes nth root and power of n calculating features. Another category includes the calculation of trigonometric functions including exponential and logarithms. The features has been enhanced further but at the cost of price. At a range of Rs 600-650, complex calculations and imaginary numbers has been included. Calculators having medium costs are having medium set of features which includes matrix and calculus. Higher features at medium cost of price includes binary conversions and are foldables. Calculators of higher prices includes the functions of database management, higher accuracy,wider display for plots and graphs. It also includes smart touch, solar cell operations, battery charging and ae waterproof.
+The Research has been divided on the basis of cost and features of different calculators. 
 
 
 ## Research
 ![Description](Link to Pic)
--- Content 
+The price ranges from Rs 50-1 Lakhs which can be used by various scientist and scholars. The first category includes less number of features at lower cost. Here the features include basic arithmetic operations. Next category of calculators includes medium number of features, again at lower price. It includes nth root and power of n calculating features. Another category includes the calculation of trigonometric functions including exponential and logarithms. The features has been enhanced further but at the cost of price. At a range of Rs 600-650, complex calculations and imaginary numbers has been included. Calculators having medium costs are having medium set of features which includes matrix and calculus. Higher features at medium cost of price includes binary conversions and are foldables. Calculators of higher prices includes the functions of database management, higher accuracy,wider display for plots and graphs. It also includes smart touch, solar cell operations, battery charging and ae waterproof.
+
 ## Cost and Features
 ![Description](Link to Pic)
--- Content 
+-- the price range of calculator is from 100 to  lakhs
 ## Defining Our System
     -- TBD
 ## SWOT ANALYSIS
@@ -16,23 +17,23 @@ The Research has been divided on the basis of cost and features of different cal
 
 # 4W&#39;s and 1&#39;H
 
-## Who:
+## Who:Basically used by students of UG and PG
 
 **TBD**
 
-## What:
+## What:It is a highend, affordable calculator
 
 **TBD**
 
-## When:
+## When:Easily accessible and performs complex calculations
 
 **TBD**
 
-## Where:
+## Where:To solve simple as well as complex calculations
 
 **TBD**
 
-## How:
+## How:End user friendly and easily accessible.
 
 **TBD**
 
