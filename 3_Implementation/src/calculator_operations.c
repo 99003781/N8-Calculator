@@ -25,3 +25,10 @@ float divide(float num1, float num2)
     else
         return num1 / num2;
 }
+float percentage(float num1, float num2);
+{
+    if(0==num2)
+        return 0;
+    else
+        return (num1/num2)*100;
+}
