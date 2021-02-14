@@ -18,4 +18,8 @@
 ## Structural Diagram:
 ![LLR Struct](https://user-images.githubusercontent.com/78867425/107868176-086f3900-6ea8-11eb-8237-29b1fb927112.PNG)
 
-![FeaturesBehaviouralDiagram](Link to Pic)
+## Behavioural Diagram:
+![LLR Behav1](https://user-images.githubusercontent.com/78867425/107868215-58e69680-6ea8-11eb-8ef7-d8afc0038f48.PNG)
+
+![LLR Behav2](https://user-images.githubusercontent.com/78867425/107868216-5a17c380-6ea8-11eb-8b41-953b76850a8a.PNG)
+
