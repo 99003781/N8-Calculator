@@ -19,6 +19,9 @@
 ![LLR_TP_Sub](https://user-images.githubusercontent.com/78867425/107875224-9f59e680-6ee4-11eb-9c0c-dc7c00213b51.PNG)
 
 
+![BMI calculator test plan](https://user-images.githubusercontent.com/78869826/107883675-42772400-6f16-11eb-94ad-01a321838dd9.JPG)
+
+
 
       
                        
