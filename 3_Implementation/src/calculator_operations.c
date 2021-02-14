@@ -3,6 +3,14 @@
 #include<math.h>
 #include<string.h>
 
+float gcd(float a, float b)
+{
+    if (b==0)
+        return a;
+    else
+        return gcd(b, a%b);
+}
+
 float add(float num1, int num2)
 {
     return num1 + num2;
