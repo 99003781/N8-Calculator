@@ -1,3 +1,4 @@
+![Test case plan detail](https://user-images.githubusercontent.com/78869826/107883359-9a149000-6f14-11eb-9ca9-2badfe4bbc29.JPG)
 
 
 # TEST PLAN:
