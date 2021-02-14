@@ -1,24 +1,27 @@
 #include <calculator_operations.h>
+#include<stdio.h>
+#include<math.h>
+#include<string.h>
 
-int add(int operand1, int operand2)
+float add(float num1, int num2)
 {
-    return operand1 + operand2;
+    return num1 + num2;
 }
 
-int subtract(int operand1, int operand2)
+float subtract(float num1, float num2)
 {
-    return operand1 - operand2;
+    return num1 - num2;
 }
 
-int multiply(int operand1, int operand2)
+float multiply(float num1, float num2)
 {
-    return operand1 * operand2;
+    return num1 * num2;
 }
 
-int divide(int operand1, int operand2)
+float divide(float num1, float num2)
 {
-    if(0 == operand2)
+    if(0 == num2)
         return 0;
     else
-        return operand1 / operand2;
+        return num1 / num2;
 }
