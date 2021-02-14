@@ -22,7 +22,7 @@
 ![BMI calculator test plan](https://user-images.githubusercontent.com/78869826/107883675-42772400-6f16-11eb-94ad-01a321838dd9.JPG)
 
 
-![feature to be tested](https://user-images.githubusercontent.com/78869826/107883875-99c9c400-6f17-11eb-83be-589c21e19554.JPG)
+
 
 
       
