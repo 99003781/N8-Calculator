@@ -23,6 +23,8 @@
 
 ![Feature tested in bmi calculator](https://user-images.githubusercontent.com/78869826/107884190-87e92080-6f19-11eb-8403-87422edd17b9.JPG)
 
+![approach](https://user-images.githubusercontent.com/78869826/107884342-7d7b5680-6f1a-11eb-9e90-1308672d7576.JPG)
+
 
 
 
