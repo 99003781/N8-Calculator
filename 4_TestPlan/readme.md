@@ -7,8 +7,11 @@
 
 ## Table no: Low level test plan
 
-| **Test ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
-|-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
-|  L_01       |--------------------------------------------------------------|  ------------|-------------|----------------|Requirement based |
-|  L_02       |--------------------------------------------------------------|  ------------|-------------|----------------|Scenario based    |
-|  L_03       |--------------------------------------------------------------|  ------------|-------------|----------------|Boundary based    |
+![LLR_TP_Add](https://user-images.githubusercontent.com/78867425/107875216-9a953280-6ee4-11eb-9626-f5121f2767f6.PNG)
+
+![LLR_TP_div](https://user-images.githubusercontent.com/78867425/107875219-9bc65f80-6ee4-11eb-9639-4d1d029bc020.PNG)
+
+![LLR_TP_mul](https://user-images.githubusercontent.com/78867425/107875220-9c5ef600-6ee4-11eb-84ed-87039556ebef.PNG)
+
+![LLR_TP_Sub](https://user-images.githubusercontent.com/78867425/107875224-9f59e680-6ee4-11eb-9c0c-dc7c00213b51.PNG)
+
