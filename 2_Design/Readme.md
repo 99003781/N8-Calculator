@@ -29,3 +29,11 @@
 
 ![high](https://user-images.githubusercontent.com/78869826/107886575-9ab62200-6f26-11eb-873c-c3df7a7954c9.JPG)
 
+## Low Level requirements
+
+## Structural Diagram:
+
+<img width="620" alt="structural class diagram LLR" src="https://user-images.githubusercontent.com/78869826/107886645-1f08a500-6f27-11eb-9d2d-0934907b3707.PNG">
+
+
+
