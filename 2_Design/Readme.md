@@ -15,6 +15,7 @@
 
 ## Low Level Design 
 
---- TBD Structural and Behavioural Diagram
-![FeaturesLevelStructuralDiagram](Link to Pic)
+## Structural Diagram:
+![LLR Struct](https://user-images.githubusercontent.com/78867425/107868176-086f3900-6ea8-11eb-8237-29b1fb927112.PNG)
+
 ![FeaturesBehaviouralDiagram](Link to Pic)
