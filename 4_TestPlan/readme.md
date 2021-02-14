@@ -21,6 +21,8 @@
 
 ![BMI calculator test plan](https://user-images.githubusercontent.com/78869826/107883675-42772400-6f16-11eb-94ad-01a321838dd9.JPG)
 
+![Feature tested in bmi calculator](https://user-images.githubusercontent.com/78869826/107884190-87e92080-6f19-11eb-8403-87422edd17b9.JPG)
+
 
 
 
