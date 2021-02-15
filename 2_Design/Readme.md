@@ -1,6 +1,6 @@
-# Design
+# Design:
 
-## High Level Design 
+## High Level Design: 
 ![cal whole HHL](https://user-images.githubusercontent.com/78873487/107906789-05437e00-6f78-11eb-8c8f-79d489e64a90.PNG)
 
 
@@ -19,7 +19,7 @@
 
 
 
-## Low Level Design 
+## Low Level Design: 
 
 ## Structural Diagram:
 ![Object Diagram](https://user-images.githubusercontent.com/78867425/107909086-7b96af00-6f7d-11eb-9138-8ba204ba00d5.PNG)
@@ -40,13 +40,13 @@
 
 ![high](https://user-images.githubusercontent.com/78869826/107886575-9ab62200-6f26-11eb-873c-c3df7a7954c9.JPG)
 
-## Low Level requirements
+## Low Level requirements:
 
 ## Structural Diagram:
 
 <img width="620" alt="structural class diagram LLR" src="https://user-images.githubusercontent.com/78869826/107886645-1f08a500-6f27-11eb-9d2d-0934907b3707.PNG">
-## Low Level requirements
-## Behavioural state Diagram
+## Low Level requirements:
+## Behavioural state Diagram:
 
 <img width="712" alt="Behavioral State Diadram LLR" src="https://user-images.githubusercontent.com/78869826/107886729-e2897900-6f27-11eb-912b-66dcd4049f21.PNG">
 
