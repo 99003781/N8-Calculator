@@ -19,7 +19,7 @@
 
 
 
-## Low Level Design: 
+## Low Level Design 
 
 ## Structural Diagram:
 ![Object Diagram](https://user-images.githubusercontent.com/78867425/107909086-7b96af00-6f7d-11eb-9138-8ba204ba00d5.PNG)
