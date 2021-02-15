@@ -10,17 +10,17 @@ The price ranges from Rs 100-300 which can be used by students in school & in un
 The price range of calculator is from 100 to 1000
 
 ## Defining Our System
-The designed product will be having all the necessary features required by the undergraduates and postgraduates students including scholars. The High level requirements include arithmetic operations, decimals, trigonometric functions, nth root, power of n, fractions, percentage, logarithms, exponentials, binary conversions etc. The low level requirements of the product includes addition, subtraction, multiplication, division under arithmetic operation, decimal upto 6 digits, trigonometric functions with square root and radians. 
+The designed product has all the necessary features required by the undergraduates and postgraduates students including scholars. The High level requirements include arithmetic operations, decimals, trigonometric functions, nth root, power of n, fractions, percentage, logarithms, exponentials, binary conversions etc. The low level requirements of the product includes addition, subtraction, multiplication, division under arithmetic operation, decimal upto 8 digits, trigonometric functions with square root and radians. 
 
 ## SWOT ANALYSIS
 ![Capture](https://user-images.githubusercontent.com/78867425/107847807-b9c48f00-6e14-11eb-9598-0ddc49f4c83b.PNG)
 
 # 4W&#39;s and 1&#39;H
 
-## Who:Basically used by students of UG and PG
+## Who:Basically used by students of UG and PG.
 
 
-## What:It is a highend, affordable calculator
+## What:It is a highend, affordable calculator.
 
 
 ## When:Easily accessible and performs complex calculations
