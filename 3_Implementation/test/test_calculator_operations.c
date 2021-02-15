@@ -29,6 +29,7 @@ int main()
   RUN_TEST(test_subtract);
   RUN_TEST(test_multiply);
   RUN_TEST(test_divide);
+  RUN_TEST(test_percentage);
 
   /* Close the Unity Test Framework */
   return UNITY_END();
@@ -64,3 +65,12 @@ void test_divide(void) {
   /* Dummy fail*/
   TEST_ASSERT_EQUAL(3, divide(2, 2));
 }
+
+void test_percentage(void) {
+  TEST_ASSERT_EQUAL(0, percentage(1, 0));
+  TEST_ASSERT_EQUAL (40, percentage(2,5))
+  
+  /* Dummy fail*/
+  TEST_ASSERT_EQUAL(2, percentage(2, 5));
+}
+
