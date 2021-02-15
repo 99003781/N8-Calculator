@@ -12,7 +12,7 @@
 
 
 ## Behavioural Diagram:
-![HLR behav1](https://user-images.githubusercontent.com/78867425/107868102-3902a300-6ea7-11eb-8068-f8f27f3cf33a.PNG)
+
 
 ![HLR Behav2](https://user-images.githubusercontent.com/78867425/107868141-aca4b000-6ea7-11eb-8e24-3214234c6e80.PNG)
 
