@@ -9,6 +9,7 @@ int main()
     printf("%d oct  = %ld decimal", oct, octtodec(oct));
     return 0;
 }
+//Conversion of octal to decimal
 long octtodec (int oct)
 {
     int dec = 0, d = 0;
