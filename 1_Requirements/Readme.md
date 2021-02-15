@@ -35,7 +35,7 @@ The designed product will be having all the necessary features required by the u
 # Detail requirements
 ## High Level Requirements:
 
-![CaptureHLR](https://user-images.githubusercontent.com/78867425/107847896-5555ff80-6e15-11eb-9993-c6f399df92cf.PNG)
+![hhh](https://user-images.githubusercontent.com/78873487/107897794-12ed0980-6f60-11eb-9519-5463f26e2c94.png)
 
 
 ##  Low level Requirements:
