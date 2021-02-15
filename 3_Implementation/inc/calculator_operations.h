@@ -50,4 +50,33 @@ float divide(float num1, float num2);
 **/
 float percentage (float num1, float num2);
 
+/**
+* divides the operand1 by operand2 and returns the result 
+*/
+#include <stdio.h>
+#include <stdlib.h>
+#include<math.h>
+
+
+
+/**
+*  entered binary number is converted to decimal 
+* @param[in]  binary num
+* @return decimal num
+
+
+*/
+int bintodec(long long n);
+
+
+/**
+*  entered decimal number is converted to octal
+* @param[in] decimal
+
+* @return octal
+*/
+ int long octtodec()
+
+long octtodec(int oct);
+
 #endif  /* #define __CALCULATOR_OPERATIONS_H__ */
