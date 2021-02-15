@@ -26,6 +26,8 @@
 ## Trigonometry
 ![llrTrigon](https://user-images.githubusercontent.com/78873487/107903865-55b6dd80-6f70-11eb-8b56-900a40c8313a.PNG)
 
+## Number conversion
+[test final.docx](https://github.com/99003781/N8-Calculator/files/5980185/test.final.docx)
 
 
 
