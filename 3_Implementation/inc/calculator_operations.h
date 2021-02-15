@@ -84,6 +84,7 @@ long octtodec(int oct);
 
 * @return octal
 */
+int bintooct(long long b);
 
 
 #endif  /* #define __CALCULATOR_OPERATIONS_H__ */
