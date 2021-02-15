@@ -23,7 +23,9 @@
 
 ![LLR_TP_Sub](https://user-images.githubusercontent.com/78867425/107875224-9f59e680-6ee4-11eb-9c0c-dc7c00213b51.PNG)
 
-## LLR for Trigonometry
+## Trigonometry
+![llrTrigon](https://user-images.githubusercontent.com/78873487/107903865-55b6dd80-6f70-11eb-8b56-900a40c8313a.PNG)
+
 
 
 
