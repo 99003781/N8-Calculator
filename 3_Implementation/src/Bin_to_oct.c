@@ -15,6 +15,7 @@ int bintooct(long long b)
     int o = 0, d = 0, t = 0;
 
     // converting binary to decimal
+    
     while (b != 0) 
     {
         d += (b % 10) * pow(2, t);
@@ -23,6 +24,7 @@ int bintooct(long long b)
     }
     t = 1;
      // converting to decimal to octal
+    
     while (d != 0) 
     {
         o += (d % 8) * t;
