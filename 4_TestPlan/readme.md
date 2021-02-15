@@ -7,6 +7,11 @@
 
 ![HLR testPlans](https://user-images.githubusercontent.com/78867425/107875137-2bb7d980-6ee4-11eb-9d59-2f54f8cfb03e.PNG)
 
+## HLR for Trigonometry calculator
+
+![HLR Trigo](https://user-images.githubusercontent.com/78873487/107902724-45513380-6f6d-11eb-9e34-8d44aadf245e.PNG)
+
+
 
 ## Table no: Low level test plan
 
