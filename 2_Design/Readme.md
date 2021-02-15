@@ -4,8 +4,8 @@
 
 ## Structural Diagram:
 ![HLR structural](https://user-images.githubusercontent.com/78867425/107867980-0c9a5700-6ea6-11eb-94b3-bcbc4a1bdf05.PNG)
-# Num Convertion:
-![HLR_Class (1)](https://user-images.githubusercontent.com/78890690/107877046-fdd89200-6eef-11eb-92e6-9e9bf0143892.jpg)
+
+![HLR_Class](https://user-images.githubusercontent.com/78890690/107894945-6d359c80-6f57-11eb-99d2-e111536905ca.jpg)
 
 
 ## Behavioural Diagram:
