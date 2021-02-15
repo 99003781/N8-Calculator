@@ -78,5 +78,12 @@ int bintodec(long long n);
  int long octtodec()
 
 long octtodec(int oct);
+/**
+*  entered Binary number is converted to octal
+* @param[in] Binary
+
+* @return octal
+*/
+
 
 #endif  /* #define __CALCULATOR_OPERATIONS_H__ */
