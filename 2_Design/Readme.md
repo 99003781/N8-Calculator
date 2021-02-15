@@ -22,6 +22,8 @@
 ## Structural Diagram:
 ![LLR Struct](https://user-images.githubusercontent.com/78867425/107868176-086f3900-6ea8-11eb-8237-29b1fb927112.PNG)
 
+![LLR_Class - Copy](https://user-images.githubusercontent.com/78890690/107896140-74f74000-6f5b-11eb-892d-07454fb656e1.png)
+
 ## Behavioural Diagram:
 ![LLR Behav1](https://user-images.githubusercontent.com/78867425/107868215-58e69680-6ea8-11eb-8ef7-d8afc0038f48.PNG)
 
