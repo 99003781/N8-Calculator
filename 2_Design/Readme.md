@@ -5,7 +5,7 @@
 ## Structural Diagram:
 ![HLR structural](https://user-images.githubusercontent.com/78867425/107867980-0c9a5700-6ea6-11eb-94b3-bcbc4a1bdf05.PNG)
 
-[HLR_Class pdf.pdf](https://github.com/99003781/N8-Calculator/files/5978979/HLR_Class.pdf.pdf)
+![HLR_Class pdf-1 1](https://user-images.githubusercontent.com/78890690/107895607-fa79f080-6f59-11eb-95a1-1d8886f219f6.jpg)
 
 
 ## Behavioural Diagram:
