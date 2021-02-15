@@ -22,7 +22,7 @@
 ## Low Level Design 
 
 ## Structural Diagram:
-![LLR Struct](https://user-images.githubusercontent.com/78867425/107868176-086f3900-6ea8-11eb-8237-29b1fb927112.PNG)
+![Object Diagram](https://user-images.githubusercontent.com/78867425/107909086-7b96af00-6f7d-11eb-9138-8ba204ba00d5.PNG)
 
 ![LLR_Class - Copy](https://user-images.githubusercontent.com/78890690/107896140-74f74000-6f5b-11eb-892d-07454fb656e1.png)
 
