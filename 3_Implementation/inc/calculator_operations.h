@@ -1,6 +1,6 @@
 /** 
 * @file calculator_operations.h
-* Calculator application with 4 mathematical operations
+* Calculator application with 4 mathematical operations.
 *
 */
 #ifndef __CALCULATOR_OPERATIONS_H__
@@ -13,10 +13,10 @@
 #include<string.h>
 
 /**
-*  adds the operand1 and operand2 and returns the result
-* @param[in] operand1 
-* @param[in] operand2 
-* @return Result of operand1 + operand2
+*  adds the operand1 and operand2 and returns the result.
+* @param[in] operand1.
+* @param[in] operand2.
+* @return Result of operand1 + operand2.
 */
 float add(float num1, int num2);
 
