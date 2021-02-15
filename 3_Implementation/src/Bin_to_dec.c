@@ -1,7 +1,8 @@
 #include <math.h>
 #include <stdio.h>
 int bintooct(long long b);
-int main() {
+int main() 
+{
     long long b;
     printf("Enter a binary number: ");
     scanf("%lld", &b);
@@ -9,7 +10,8 @@ int main() {
     return 0;
 }
 
-int bintooct(long long b) {
+int bintooct(long long b) 
+{
     int o = 0, d = 0, t = 0;
 
     // converting binary to decimal
