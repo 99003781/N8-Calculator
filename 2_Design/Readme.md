@@ -1,6 +1,8 @@
 # Design
 
 ## High Level Design 
+![cal whole HHL](https://user-images.githubusercontent.com/78873487/107906789-05437e00-6f78-11eb-8c8f-79d489e64a90.PNG)
+
 
 ## Structural Diagram:
 ![HLR structural](https://user-images.githubusercontent.com/78867425/107867980-0c9a5700-6ea6-11eb-94b3-bcbc4a1bdf05.PNG)
