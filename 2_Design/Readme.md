@@ -1,6 +1,6 @@
-# Design:
+# Design
 
-## High Level Design: 
+## High Level Design
 ![cal whole HHL](https://user-images.githubusercontent.com/78873487/107906789-05437e00-6f78-11eb-8c8f-79d489e64a90.PNG)
 
 
@@ -26,7 +26,7 @@
 
 ![LLR_Class - Copy](https://user-images.githubusercontent.com/78890690/107896140-74f74000-6f5b-11eb-892d-07454fb656e1.png)
 
-## Trigonometry 
+## Trigonometry :
 ![table hlr trigono](https://user-images.githubusercontent.com/78873487/107906315-ccef7000-6f76-11eb-872a-7dfab1299ccf.PNG)
 
 
@@ -40,7 +40,7 @@
 
 ![high](https://user-images.githubusercontent.com/78869826/107886575-9ab62200-6f26-11eb-873c-c3df7a7954c9.JPG)
 
-## Low Level requirements:
+## Low Level requirements
 
 ## Structural Diagram:
 
