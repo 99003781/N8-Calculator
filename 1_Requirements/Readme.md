@@ -40,5 +40,6 @@ The designed product will be having all the necessary features required by the u
 
 ##  Low level Requirements:
 
-![CaptureLLR](https://user-images.githubusercontent.com/78867425/107847939-ca293980-6e15-11eb-895b-985f8d84b5be.PNG)
+![LLR whole](https://user-images.githubusercontent.com/78873487/107908142-5739d300-6f7b-11eb-9031-32eb215a6ff4.PNG)
+
 
