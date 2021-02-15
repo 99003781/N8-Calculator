@@ -13,18 +13,18 @@
 #include<string.h>
 
 /**
-*  adds the operand1 and operand2 and returns the result.
-* @param[in] operand1.
-* @param[in] operand2.
-* @return Result of operand1 + operand2.
+*  adds the operand1 and operand2 and returns the result
+* @param[in] operand1
+* @param[in] operand2
+* @return Result of operand1 + operand2
 */
 float add(float num1, int num2);
 
 /**
 *  subtracts the operand1, operand2 and returns the result
-* @param[in] operand1.
-* @param[in] operand2.
-* @return Result of operand1 - operand2.
+* @param[in] operand1
+* @param[in] operand2
+* @return Result of operand1 - operand2
 */
 float subtract(float num1, float num2);
 
