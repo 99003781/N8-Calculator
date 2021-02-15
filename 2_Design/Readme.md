@@ -24,6 +24,10 @@
 
 ![LLR_Class - Copy](https://user-images.githubusercontent.com/78890690/107896140-74f74000-6f5b-11eb-892d-07454fb656e1.png)
 
+## Trigonometry 
+![table hlr trigono](https://user-images.githubusercontent.com/78873487/107906315-ccef7000-6f76-11eb-872a-7dfab1299ccf.PNG)
+
+
 ## Behavioural Diagram:
 ![LLR Behav1](https://user-images.githubusercontent.com/78867425/107868215-58e69680-6ea8-11eb-8ef7-d8afc0038f48.PNG)
 
