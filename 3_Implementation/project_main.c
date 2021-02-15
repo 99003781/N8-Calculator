@@ -1,112 +1,129 @@
 #include <calculator_operations.h>
+#include<stdio.h>
+#include<math.h>
+#include<string.h>
 
 /* Status of the operation requested */
 #define VALID   (1)
 #define INVALID (0)
 
-/* Calculator operation requested by user*/
-unsigned int calculator_operation = 0;
-
-/* Operands on which calculation is performed */
-int calculator_operand1 = 0;
-int calculator_operand2 = 0;
-
-/* Valid operations */
-enum operations{ ADD=1, SUBTRACT, MULTIPLY, DIVIDE, EXIT };
-
-/* Display the menu of operations supported */
-void calculator_menu(void);
-/* Verifies the requested operations validity */
-int valid_operation(int operation);
-
-
-/* Start of the application */
-int main(int argc, char *argv[])
+float gcd(float a, float b)
+if (b==0)
+return a;
+else
+return gcd(b, a%b);
+int main()
 {
-    printf("\n****Calculator****\n");
-    while(1)
-    {
-        calculator_menu();
-    }
-}
 
-void calculator_menu(void)
-{
-    printf("\nAvailable Operations\n");
-    printf("\n1. Add\n2. Subtract\n3. Multiply\n4. Divide\n5. Exit");
-    printf("\n\tEnter your choice\n");
-   
-     // __fpurge(stdin);
-    scanf("%d", &calculator_operation);
+    while(1) 
+    {
+        char oper, decision;
+        float num1, num2, den1, den2;
+        printf("\nEnter the first number: ");
+        scanf("%f %f", &num1, &den1);
 
-    if(EXIT == calculator_operation)
-    {
-        printf("\nThank you. Exiting the Application\n");
-        exit(0);
-    }
+        printf("\nEnter the operator: ");
+        scanf("%c", &oper) ;
 
-    if(INVALID != valid_operation(calculator_operation))
-    {
-        printf("\n\tEnter your Numbers with space between them\n");
-        // __fpurge(stdin);
-        scanf("%d %d", &calculator_operand1, &calculator_operand2);
-    }
-    else
-    {
-        printf("\n\t---Wrong choice---\nEnter to continue\n");
-        // __fpurge(stdin);
-        getchar();
-        return;
-        
-    }
-    switch(calculator_operation)
-    {
-        case ADD:
-            printf("\n\t%d + %d = %d\nEnter to continue", 
-            calculator_operand1, 
-            calculator_operand2,
-            add(calculator_operand1, calculator_operand2));
-            
-            // __fpurge(stdin);
-            getchar();
-            break;
-        case SUBTRACT:
-            printf("\n\t%d - %d = %d\nEnter to continue", 
-            calculator_operand1, 
-            calculator_operand2,
-            subtract(calculator_operand1, calculator_operand2));
-            
-            // __fpurge(stdin);
-            getchar();
-            break;
-        case MULTIPLY:
-            printf("\n\t%d * %d = %d\nEnter to continue", 
-            calculator_operand1, 
-            calculator_operand2,
-            multiply(calculator_operand1, calculator_operand2));
-            
-            // __fpurge(stdin);
-            getchar();
-            break;
-        case DIVIDE:
-            printf("\n\t%d / %d = %d\nEnter to continue", 
-            calculator_operand1, 
-            calculator_operand2,
-            divide(calculator_operand1, calculator_operand2));
-            
-            // __fpurge(stdin);
-            getchar();
-            break;
-        case 5:
-            exit(0);
-            break;
-        default:
-            printf("\n\t---It should never come here---\n");
-    }
-}
+        printf("\nEnter second number: ");
+        scanf("%f %f", &num2, &den2);
 
-int valid_operation(int operation)
-{
-    /* Check if the operation is a valid operation */
-    return ((ADD <= operation) && (EXIT >= operation)) ? VALID: INVALID;
+        if(oper == '+') 
+        {
+            float addNum = num1*den2 + num2*den1;
+            float addDen = den1*den2;
+            if(addDen == 0) 
+            {
+                printf("Please put valid input\n");
+            }
+            else if(addNum == 0) 
+            {
+                printf("0\n");
+            }
+            else 
+            {
+                float gcd = gcd(addNum, addDen); 
+				printf("%f / %f \n", addNum/gcd, subDen/gcd);
+				// __fpurge(stdin);
+				getchar();
+				break
+            }
+        }
+        else if(oper == '-') {
+            float subNum = num1*den2 - num2*den1;
+            float subDen = den1*den2;
+            if(subDen == 0) 
+            {
+                printf("Please put valid input\n");
+            }
+            else if(subNum == 0) 
+            {
+                printf("0\n");
+            }
+            else 
+            {
+                float gcd = gcd(subNum, subDen);
+				printf("%f / %f \n", subNum/gcd, subden/gcd);
+				// __fpurge(stdin);
+				getchar();
+				break;
+            }
+        }
+        else if(oper == '*') 
+        {
+            float mulNum = num1*den2;
+            float mulDen = den1*num2;
+            if(mulDen == 0) 
+            {
+                printf("Please put valid input\n");
+            }
+            else if(mulNum == 0) 
+            {
+                printf("0\n");
+            }
+            else 
+            {
+                float gcd = gcd(mulNumerator, mulDenominator);
+                printf("%f / %f \n", mulNum/gcd, mulDen/gcd);
+				// __fpurge(stdin);
+				getchar();
+				break;
+            }
+        }
+        else if(oper=='/') 
+        {
+            float divNum = num1*den1;
+            float divDen = den2*num2;
+            if(divDen == 0) 
+            {
+                printf("Please put valid input\n");
+            }
+            else if(divNum == 0) 
+            {
+                printf("0\n");
+            }
+            else 
+            {
+                float gcd = gcd(divNumerator, divDenominator);
+                printf("%f / %f \n", divNum/gcd, divDen/gcd);
+				// __fpurge(stdin);
+				getchar();
+				break;
+            }
+        }
+		else if (oper=='%') 
+        {
+		    printf("Percentage is %f", ((Num1/Den1)/(Num2/Den2)*100)
+		// __fpurge(stdin);
+		getchar();
+		break;
+		}
+        printf("Do you want to continue?");
+        scanf("%c",decision);
+        if(decision == 'n') 
+        {
+            break;
+        }
+    }
+    return 0;
 }
