@@ -73,37 +73,46 @@ float Radaian_to_Degree_sin(float radain)
    int degree
 degree = radian/(pi/180.0);
    return degree;
-   
+}
+
 float Radaian_to_Degree_cos(float radain)
 {
    int degree
 degree = radian/(pi/180.0);
    return degree;
-      
+}
+
 float Radaian_to_Degree_cot(float radain)
 {
    int degree
 degree = radian/(pi/180.0);
    return degree;
-         
+}
+
 float Radaian_to_Degree_cosec(float radain)
 {
    int degree
 degree = radian/(pi/180.0);
    return degree;
-            
+}
+
 float Radaian_to_Degree_sec(float radain)
 {
    int degree
 degree = radian/(pi/180.0);
    return degree;
-               
+}
+
 float Radaian_to_Degree_cot(float radain)
 {
    int degree
 degree = radian/(pi/180.0);
    return degree;
+}
    
-   
+
+
+
+
 
 
