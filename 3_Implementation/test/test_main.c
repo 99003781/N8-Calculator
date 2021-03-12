@@ -56,50 +56,51 @@
           //^^^^^^^^^^^^^^^^^^^^^^^^for 0 Radain^^^^^^^^^^^^^^^^^^^^^^^^
 
             float Radaian_to_Degree_sin_0(float radian);
-            float Radaian_to_Degree_sin_0(float radian);
-            float Radaian_to_Degree_sin_0(float radian);
-            float Radaian_to_Degree_sin_0(float radian);
-            float Radaian_to_Degree_sin_0(float radian);
-            float Radaian_to_Degree_sin_0(float radian);
+            float Radaian_to_Degree_cos_0(float radian);
+            float Radaian_to_Degree_tan_0(float radian);
+            float Radaian_to_Degree_cosec_0(float radian);
+            float Radaian_to_Degree_sec_0(float radian);
+            float Radaian_to_Degree_tan_0(float radian);
 
             //^^^^^^^^^^^^^^^^^^^^^^^^for PI/6 Radain^^^^^^^^^^^^^^^^^^^^^^^^
-
-            float Radaian_to_Degree_sin_PI/6(float radian);
-            float Radaian_to_Degree_sin_PI/6(float radian);
-            float Radaian_to_Degree_sin_PI/6(float radian);
-            float Radaian_to_Degree_sin_PI/6(float radian);
-            float Radaian_to_Degree_sin_PI/6(float radian);
-            float Radaian_to_Degree_sin_PI/6(float radian);
+            
+            
+            float Radaian_to_Degree_sin_pi6(float radian);
+            float Radaian_to_Degree_cos_pi6(float radian);
+            float Radaian_to_Degree_tan_pi6(float radian);
+            float Radaian_to_Degree_cosec_pi6(float radian);
+            float Radaian_to_Degree_sec_pi6(float radian);
+            float Radaian_to_Degree_cot_pi6(float radian);
 
 
             //^^^^^^^^^^^^^^^^^^^^^^^^for PI/4 Radain^^^^^^^^^^^^^^^^^^^^^^^^
 
-            float Radaian_to_Degree_sin_PI/4(float radian);
-            float Radaian_to_Degree_sin_PI/4(float radian);
-            float Radaian_to_Degree_sin_PI/4(float radian);
-            float Radaian_to_Degree_sin_PI/4(float radian);
-            float Radaian_to_Degree_sin_PI/4(float radian);
-            float Radaian_to_Degree_sin_PI/4(float radian);
+            float Radaian_to_Degree_sin_pi4(float radian);
+            float Radaian_to_Degree_cos_pi4(float radian);
+            float Radaian_to_Degree_tan_pi4(float radian);
+            float Radaian_to_Degree_cosec_pi4(float radian);
+            float Radaian_to_Degree_sec_pi4(float radian);
+            float Radaian_to_Degree_tan_pi4(float radian);
 
 
-            //^^^^^^^^^^^^^^^^^^^^^^^^for 0 Radain^^^^^^^^^^^^^^^^^^^^^^^^
+            //^^^^^^^^^^^^^^^^^^^^^^^^for PI/3 Radain^^^^^^^^^^^^^^^^^^^^^^^^
 
-            float Radaian_to_Degree_sin_0(float radian);
-            float Radaian_to_Degree_sin_0(float radian);
-            float Radaian_to_Degree_sin_0(float radian);
-            float Radaian_to_Degree_sin_0(float radian);
-            float Radaian_to_Degree_sin_0(float radian);
-            float Radaian_to_Degree_sin_0(float radian);
+            float Radaian_to_Degree_sin_pi3(float radian);
+            float Radaian_to_Degree_cos_pi4(float radian);
+            float Radaian_to_Degree_tan_pi3(float radian);
+            float Radaian_to_Degree_cosec_pi3(float radian);
+            float Radaian_to_Degree_sec_pi3(float radian);
+            float Radaian_to_Degree_cot_pi3(float radian);
 
 
-            //^^^^^^^^^^^^^^^^^^^^^^^^for 0 Radain^^^^^^^^^^^^^^^^^^^^^^^^
+            //^^^^^^^^^^^^^^^^^^^^^^^^for PI/2 Radain^^^^^^^^^^^^^^^^^^^^^^^^
 
-            float Radaian_to_Degree_sin_0(float radian);
-            float Radaian_to_Degree_sin_0(float radian);
-            float Radaian_to_Degree_sin_0(float radian);
-            float Radaian_to_Degree_sin_0(float radian);
-            float Radaian_to_Degree_sin_0(float radian);
-            float Radaian_to_Degree_sin_0(float radian);
+            float Radaian_to_Degree_sin_pi2(float radian);
+            float Radaian_to_Degree_cos_pi2(float radian);
+            float Radaian_to_Degree_tan_pi2(float radian);
+            float Radaian_to_Degree_cosec_pi2(float radian);
+            float Radaian_to_Degree_sec_pi2(float radian);
+            float Radaian_to_Degree_cot_pi2(float radian);
 
 
             
