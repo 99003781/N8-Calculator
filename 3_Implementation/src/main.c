@@ -15,7 +15,7 @@ int check();
 int get_user_choice()
 {
 int selected_choice; 
-   = scanf("%d",&selected_choice);
+   //scanf("%d",&selected_choice);
 //scanf("%d",&selected_choice);
 return selected_choice;
 }
