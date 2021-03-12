@@ -3,7 +3,7 @@
 
 //###################Trigonometary###################
 
-      //**********test cases for Degree_to_Radaian conversion************
+      //**********Test Function for Degree_to_Radaian conversion************
 
           //^^^^^^^^^^^^^^^^^^^^^^^^for 0 Degree^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -103,4 +103,118 @@
             float Radaian_to_Degree_cot_pi2(float radian);
 
 
-            
+
+//**********Test Cases for Degree_to_Radaian conversion************
+
+       //^^^^^^^^^^^^^^^^^^^^^^^^for 0 Degree^^^^^^^^^^^^^^^^^^^^^^^^
+
+             void Degree_to_Radaian_sin_0(void)
+             {
+              TEST_ASSERT_EQUAL(0,Degree_to_Radaian_sin(0))
+             }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
