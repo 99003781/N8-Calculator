@@ -37,45 +37,6 @@ void test_percentage_testcase3(void);
 void test_percentage_testcase4(void);
 void test_percentage_testcase5(void);
 
-void test_gcd(void);void sin_func_test(void)
-void test_gcd_testcase2(void);
-void test_gcd_testcase3(void);
-void test_gcd_testcase4(void);
-void test_gcd_testcase5(void);
-
-void test_rem(void);
-void test_rem_testcase2(void);
-void test_rem_testcase3(void);
-void test_rem_tvoid test_add(void);
-void test_add_testcase2(void);
-void test_add_testcase3(void);
-void test_add_testcase4(void);
-void test_add_testcase5(void);
-
-void test_subtract(void);
-void test_subtract_testcase2(void);
-void test_subtract_testcase3(void);
-void test_subtract_testcase4(void);
-void test_subtract_testcase5(void);
-
-void test_multiply(void);
-void test_multiply_testcase2(void);
-void test_multiply_testcase3(void);
-void test_multiply_testcase4(void);
-void test_multiply_testcase5(void);
-
-void test_divide(void);
-void test_divide_testcase2(void);
-void test_divide_testcase3(void);
-void test_divide_testcase4(void);
-void test_divide_testcase5(void);
-
-void test_percentage(void);
-void test_percentage_testcase2(void);
-void test_percentage_testcase3(void);
-void test_percentage_testcase4(void);
-void test_percentage_testcase5(void);
-
 void test_gcd(void);
 void test_gcd_testcase2(void);
 void test_gcd_testcase3(void);
@@ -88,11 +49,10 @@ void test_rem_testcase3(void);
 void test_rem_testcase4(void);
 void test_rem_testcase5(void);
 
-void test_power(void);
-void test_power_testcase2(void);
-void test_power_testcase3(void);
-void test_power_testcase4(void);
-void test_power_testcase5(void);estcase4(void);
+void test_rem(void);
+void test_rem_testcase2(void);
+void test_rem_testcase3(void);
+void test_rem_testcase4(void);
 void test_rem_testcase5(void);
 
 void test_power(void);
