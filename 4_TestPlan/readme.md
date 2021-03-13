@@ -33,8 +33,6 @@
 
 
 ## Area Calculation
-Table no: High level test plan
-
 Test ID |	Description	Exp IN   |	Exp OUT  |	Actual Out	|Type Of Test
 H_01	  |    Area of square      |           |              |Requirement based
 H_02	  |    Area of triangle    |           |              |Requirement based
