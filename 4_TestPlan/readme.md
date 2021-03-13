@@ -32,7 +32,7 @@
 | H\_03           | Binary to octal | 1110 | 16 | Requirement based |
 
 
-TEST PLAN:
+## Area Calculation
 Table no: High level test plan
 
 Test ID |	Description	Exp IN   |	Exp OUT  |	Actual Out	|Type Of Test
