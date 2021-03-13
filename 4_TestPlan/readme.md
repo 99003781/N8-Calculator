@@ -33,22 +33,20 @@
 
 
 ## Area Calculation
-## Contributors List and Summary
 
-PS No.   |  Name          |    Features                    | Issuess  | Raised |Issues Resolved|No Test Cases|Test Case Pass
----------|----------------|-----------------------------   |----------|--------|---------------|-------------|--------------
-99003779 | Neha Tabassum  | Basic Arithmetic Calculation   | X No     | X No   |X No           |   X No     
-99003781 | Aman Shivachh  | Basic Trigonometry Calculation | X No     | X No   |X No           |   X No     
-99003776 | Pawan Kumar    | Area Calculator                | X No     | X No   |X No           |   X No     
-99003780 | G Sai Kiran    |Conversion                      | X No     | X No   |X No           |   X No     
-99003780 | G Sai Kiran    | Highly precise                 | X No     | X No   |X No           |   X No     
-
-
-
-
-
-
-
+**Test**ID**   |**Description**          | ** Expected input **     | ** Expected output **   |       
+|--------------|-------------------------|--------------------------|-------------------------|            
+| H\_01        |Area:if any side of input|  Any negative value      |  Area cannot be negative|                                 
+|              | is in negative of shape |  example:-5              |                         |
+|              |                         |                          |                         | 
+|  H\_02       | Area: if any side is    |                          |  if you put zero it give|                             
+|              | zero then whole area    |       0                  |  you invalid so please  |                  
+|              | of shape becomes zero   |                          |  enter any other value  |                  
+|              |                         |                          |                         |
+| H\_03        | Area:input should be    | First input should be    | Both input should have  |                                          
+|              | in same dimension       | in same                  |  same dimension         |                   
+|              |                         |                          |                         |
+|              |                         |                          |                         | 
 
 
 
