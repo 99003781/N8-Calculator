@@ -7,6 +7,7 @@ Build | Cppcheck | Unity | [Git Inspector](using github.io option)
 [![C/C++ CI](https://github.com/99003781/N8-Calculator/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/99003781/N8-Calculator/actions/workflows/c-cpp.yml)
 
 [![Unity - Unit Testing](https://github.com/99003781/N8-Calculator/actions/workflows/unity.yml/badge.svg)](https://github.com/99003781/N8-Calculator/actions/workflows/unity.yml)
+[![Code Quality - Static Code - Cppcheck](https://github.com/99003781/N8-Calculator/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/99003781/N8-Calculator/actions/workflows/cppcheck.yml)
 
 
 ## Folder Structure
