@@ -33,11 +33,10 @@
 
 
 ## Area Calculation
-|**Test ID |	Description	Exp IN   |	Exp OUT  |	Actual Out	|Type Of Test
-|H_01	  |    Area of square      |           |              |Requirement based
-|H_02	  |    Area of triangle    |           |              |Requirement based
-|H_03	  |    Area of rectangular |           |              |Requirement based                          
-|H_04    |    Area of circumstance|           |              |Requirement based
+|**Test ID |	Description	Exp IN   |	Exp OUT  |	Actual Out	|Type Of Test|
+|H_01	  |    Area of square      |           |              |Requirement based|
+|H_02	  |    Area of triangle    |           |              |Requirement based|                       
+|H_04    |    Area of circumstance|           |              |Requirement based|
 
 
 
