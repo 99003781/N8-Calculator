@@ -37,6 +37,45 @@ void test_percentage_testcase3(void);
 void test_percentage_testcase4(void);
 void test_percentage_testcase5(void);
 
+void test_gcd(void);void sin_func_test(void)
+void test_gcd_testcase2(void);
+void test_gcd_testcase3(void);
+void test_gcd_testcase4(void);
+void test_gcd_testcase5(void);
+
+void test_rem(void);
+void test_rem_testcase2(void);
+void test_rem_testcase3(void);
+void test_rem_tvoid test_add(void);
+void test_add_testcase2(void);
+void test_add_testcase3(void);
+void test_add_testcase4(void);
+void test_add_testcase5(void);
+
+void test_subtract(void);
+void test_subtract_testcase2(void);
+void test_subtract_testcase3(void);
+void test_subtract_testcase4(void);
+void test_subtract_testcase5(void);
+
+void test_multiply(void);
+void test_multiply_testcase2(void);
+void test_multiply_testcase3(void);
+void test_multiply_testcase4(void);
+void test_multiply_testcase5(void);
+
+void test_divide(void);
+void test_divide_testcase2(void);
+void test_divide_testcase3(void);
+void test_divide_testcase4(void);
+void test_divide_testcase5(void);
+
+void test_percentage(void);
+void test_percentage_testcase2(void);
+void test_percentage_testcase3(void);
+void test_percentage_testcase4(void);
+void test_percentage_testcase5(void);
+
 void test_gcd(void);
 void test_gcd_testcase2(void);
 void test_gcd_testcase3(void);
@@ -47,6 +86,13 @@ void test_rem(void);
 void test_rem_testcase2(void);
 void test_rem_testcase3(void);
 void test_rem_testcase4(void);
+void test_rem_testcase5(void);
+
+void test_power(void);
+void test_power_testcase2(void);
+void test_power_testcase3(void);
+void test_power_testcase4(void);
+void test_power_testcase5(void);estcase4(void);
 void test_rem_testcase5(void);
 
 void test_power(void);
@@ -263,6 +309,29 @@ void test_power_testcase5(void)
 
 
 ################################   AMAN     ################################################################
+
+
+void sin_func_test(void);
+void cos_func_test(void);
+void tan_func_test(void);
+void cosec_func_test(void);
+void sec_func_test(void);
+void sin_func_test_1(void);
+void cos_func_test_1(void);  
+void tan_func_test_1(void);  
+void cosec_func_test_1(void); 
+void cot_func_test_1(void); 
+void sin_func_test_2(void);
+void cos_func_test_2(void); 
+void tan_func_test_2(void);  
+void cosec_func_test_2(void);
+void sec_func_test_2(void);
+void sin_func_test_3(void); 
+void cos_func_test_3(void);
+void tan_func_test_3(void); 
+void cosec_func_test_3(void);  
+  
+  
 void sin_func_test(void)
 {
      TEST_ASSERT_EQUAL(0.5,sin_func(30));
@@ -445,10 +514,6 @@ int main(void)
   RUN_TEST(test_power_testcase3);
   RUN_TEST(test_power_testcase4);
   RUN_TEST(test_power_testcase5);
-
-
-     
-
 
 return UNITY_END();
 }
