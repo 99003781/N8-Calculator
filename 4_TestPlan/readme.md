@@ -28,16 +28,22 @@
 
 ## Number conversion
 | **Test**** ID **|** Description **|** Expected ****input** | **Expected**** output **|** Type of test** |
-| --- | --- | --- | --- | --- |
-| H\_01 | Binary to decimal | 1010 | 10 | Requirement based |
-| H\_02 | Octal to decimal | 55 | 45 | Requirement based |
-| H\_03 | Binary to octal | 1110 | 16 | Requirement based |
+| ---             | --- | --- | --- | --- |
+| H\_01           | Binary to decimal | 1010 | 10 | Requirement based |
+| H\_02           | Octal to decimal | 55 | 45 | Requirement based |
+| H\_03           | Binary to octal | 1110 | 16 | Requirement based |
 
 
+TEST PLAN:
+Table no: High level test plan
 
-![BMI calculator test plan](https://user-images.githubusercontent.com/78869826/107883675-42772400-6f16-11eb-94ad-01a321838dd9.JPG)
+Test ID |	Description	Exp IN   |	Exp OUT  |	Actual Out	|Type Of Test
+H_01	  |    Area of square      |           |               | 
+H_02	  |    Area of triangle    |           |               |
+H_03	  |    Area of rectangular |           |               |                           
+H_04    |   Area of circumstance |           |               |
 
-![Feature tested in bmi calculator](https://user-images.githubusercontent.com/78869826/107884190-87e92080-6f19-11eb-8403-87422edd17b9.JPG)
+
 
 ![approach](https://user-images.githubusercontent.com/78869826/107884342-7d7b5680-6f1a-11eb-9e90-1308672d7576.JPG)
 
