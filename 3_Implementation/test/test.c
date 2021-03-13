@@ -1,5 +1,6 @@
 #include "unity.h"
 #include "main.h"
+#include "calculator_operations.h"
 
 void setUp(){}
 
