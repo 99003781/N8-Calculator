@@ -40,11 +40,11 @@ The designed product has all the necessary features required by the undergraduat
 
 PS No.   |  Name          |    Features                    | Issuess  | Raised |Issues Resolved|No Test Cases|Test Case Pass
 ---------|----------------|-----------------------------   |----------|--------|---------------|-------------|--------------
-99003779 | Neha Tabassum  | Basic Arithmetic Calculation   | X No     | X No   |X No           |   X No     
-99003781 | Aman Shivachh  | Basic Trigonometry Calculation | X No     | X No   |X No           |   X No     
-99003776 | Pawan Kumar    | Area Calculator                | X No     | X No   |X No           |   pass    
-99003780 | G Sai Kiran    |Conversion                      | X No     | X No   |X No           |   pass    
-99003780 | G Sai Kiran    | Highly precise                 | X No     | X No   |X No           |   X No     
+99003779 | Neha Tabassum  | Basic Arithmetic Calculation   | X No     | X No   |X No           |   X No      |
+99003781 | Aman Shivachh  | Basic Trigonometry Calculation | X No     | X No   |X No           |   X No      |
+99003776 | Pawan Kumar    | Area Calculator                | X No     | X No   |X No           |   X No      |
+99003780 | G Sai Kiran    |Conversion                      | X No     | X No   |X No           |   x No      |
+99003780 | G Sai Kiran    | Highly precise                 | X No     | X No   |X No           |   X No      |
  
 
 
