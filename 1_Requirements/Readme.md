@@ -37,9 +37,34 @@ The designed product has all the necessary features required by the undergraduat
 
 ![hhh](https://user-images.githubusercontent.com/78873487/107897794-12ed0980-6f60-11eb-9519-5463f26e2c94.png)
 
+## Contributors List and Summary
+
+PS No.   |  Name          |    Features                    | Issuess  | Raised |Issues Resolved|No Test Cases|Test Case Pass
+---------|----------------|-----------------------------   |----------|--------|---------------|-------------|--------------
+99003779 | Neha Tabassum  | Basic Arithmetic Calculation   | X No     | X No   |X No           |   X No     
+99003781 | Aman Shivachh  | Basic Trigonometry Calculation | X No     | X No   |X No           |   X No     
+99003776 | Pawan Kumar    | Area Calculator                | X No     | X No   |X No           |   X No     
+99003780 | G Sai Kiran    |Conversion                      | X No     | X No   |X No           |   X No     
+99003780 | G Sai Kiran    | Highly precise                 | X No     | X No   |X No           |   X No     
+ 
+
 
 ##  Low level Requirements:
 
 ![LLR whole](https://user-images.githubusercontent.com/78873487/107908142-5739d300-6f7b-11eb-9031-32eb215a6ff4.PNG)
 
+PS No.   |  Name            |    Description                     | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
+---------|------------------|------------------------------------|----------------|---------------|-------------|--------------
+99003779 | Neha Tabassum    | Addition() function                | X No           | X No          |X No         |X No     
+99003779 | Neha Tabassum    | Subtraction() function             | X NO           | x No          |x No         |x No
+99003779 | Neha Tabassum    | Multiplication() function          | X No           | X No          |X No         |X No     
+99003779 | Neha Tabassum    | Division() function                | X NO           | x No          |x No         |x No
+99003780 |   G Sai Kiran    | Binary() function                  | X No           | X No          |X No         |X No     
+99003780 |  G Sai Kiran     | octal() function                   | X NO           | x No          |x No         |x No
+99003781 |   Aman Shivachh  | Degree to radian() function        | X No           | X No          |X No         |X No     
+99003781 |  Aman Shivachh   | Radian to degree() function        | X NO           | x No          |x No         |x No
+99003776 | Pawan Kumar      | triangle area() function           | X No           | X No          |X No         |X No     
+99003776 | Pawan Kumar      | square area() function             | X NO           | x No          |x No         |x No
+99003776 | Pawan Kumar      | rectangular area() function        | X No           | X No          |X No         |X No     
+99003776 | Pawan Kumar      | circum area() function             | X NO           | x No          |x No         |x No
 
