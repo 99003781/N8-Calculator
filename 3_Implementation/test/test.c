@@ -49,12 +49,6 @@ void test_rem_testcase3(void);
 void test_rem_testcase4(void);
 void test_rem_testcase5(void);
 
-void test_rem(void);
-void test_rem_testcase2(void);
-void test_rem_testcase3(void);
-void test_rem_testcase4(void);
-void test_rem_testcase5(void);
-
 void test_power(void);
 void test_power_testcase2(void);
 void test_power_testcase3(void);
