@@ -38,7 +38,7 @@
 ![LLR_STATE](https://user-images.githubusercontent.com/78890690/107895943-02866000-6f5b-11eb-8974-0849e316474f.png)
 
 
-![high](https://user-images.githubusercontent.com/78869826/107886575-9ab62200-6f26-11eb-873c-c3df7a7954c9.JPG)
+
 
 ## Low Level requirements
 
@@ -49,6 +49,7 @@
 ## Behavioural state Diagram:
 
 <img width="712" alt="Behavioral State Diadram LLR" src="https://user-images.githubusercontent.com/78869826/107886729-e2897900-6f27-11eb-912b-66dcd4049f21.PNG">
+
 
 
 
