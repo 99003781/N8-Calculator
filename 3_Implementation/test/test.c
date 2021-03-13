@@ -1,11 +1,17 @@
 #include "unity.h"
 #include "main.h"
 #include "calculator_operations.h"
+#include <area.h>
 
 void setUp(){}
 
 void tearDown(){}
 
+
+void test_triangle_area(void);
+void test_square_area(void);
+void test_rect_area(void);
+void test_circum_area(void);
 
 
 void sin_func_test(void);
@@ -80,7 +86,30 @@ void test_power_testcase3(void);
 void test_power_testcase4(void);
 void test_power_testcase5(void);
 
-
+void test_positive_area_square(void)
+{
+    TEST_ASSERT_EQUAL(49, square_area(7));
+}
+ void test_Negative_area_square(void)
+{
+     TEST_ASSERT_EQUAL(169, square_area(13));
+}
+ void test_positive_rect_area(void)
+{
+   TEST_ASSERT_EQUAL(200, rect_area(10,20));
+}
+void test_Negative_rect_area(void)
+{
+    TEST_ASSERT_EQUAL(-120, rect_area(-12,10));
+}
+void test_positive_triangle_area(void)
+{
+     TEST_ASSERT_EQUAL(100, triangle_area(10,20));
+}
+void test_Negative_triangle_area(void)
+{
+   TEST_ASSERT_EQUAL(-60, triangle_area(-12,10));
+}
 
 
 /*ADDITION*/
@@ -469,6 +498,13 @@ int main(void)
   RUN_TEST(test_power_testcase3);
   RUN_TEST(test_power_testcase4);
   RUN_TEST(test_power_testcase5);
+  
+  RUN_TEST(test_positive_area_square);
+  RUN_TEST(test_positive_rect_area);
+  RUN_TEST(test_positive_triangle_area);
+  RUN_TEST(test_Negative_area_square);
+  RUN_TEST(test_Negative_rect_area);
+  RUN_TEST(test_Negative_triangle_area);
 
 return UNITY_END();
 }
