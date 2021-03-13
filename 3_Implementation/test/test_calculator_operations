@@ -65,48 +65,56 @@ int main()
   UNITY_BEGIN();
 
   /* Run Test functions */
+  /*ADDITION*/
   RUN_TEST(test_add);
   RUN_TEST(test_add_testcase2);
   RUN_TEST(test_add_testcase3);
   RUN_TEST(test_add_testcase4); 
   RUN_TEST(test_add_testcase5);
 
+  /*SUBTRACTION*/
   RUN_TEST(test_subtract);
   RUN_TEST(test_subtract_testcase2);
   RUN_TEST(test_subtract_testcase3);
   RUN_TEST(test_subtract_testcase4);
   RUN_TEST(test_subtract_testcase5);
 
+  /*MULTIPLICATION*/
   RUN_TEST(test_multiply);
   RUN_TEST(test_multiply_testcase2);
   RUN_TEST(test_multiply_testcase3);
   RUN_TEST(test_multiply_testcase4);
   RUN_TEST(test_multiply_testcase5);
 
+  /*DIVISION*/
   RUN_TEST(test_divide);
   RUN_TEST(test_divide_testcase2);
   RUN_TEST(test_divide_testcase3);
   RUN_TEST(test_divide_testcase4);
   RUN_TEST(test_divide_testcase5);
 
+  /*PERCENTAGE*/
   RUN_TEST(test_percentage);
   RUN_TEST(test_percentage_testcase2);
   RUN_TEST(test_percentage_testcase3);
   RUN_TEST(test_percentage_testcase4);
   RUN_TEST(test_percentage_testcase5);
-  
+
+  /*GCD*/
   RUN_TEST(test_gcd);
   RUN_TEST(test_gcd_testcase2);
   RUN_TEST(test_gcd_testcase3);
   RUN_TEST(test_gcd_testcase4);
   RUN_TEST(test_gcd_testcase5);
 
+  /*REMAINDER*/
   RUN_TEST(test_rem);
   RUN_TEST(test_rem_testcase2);
   RUN_TEST(test_rem_testcase3);
   RUN_TEST(test_rem_testcase4);
   RUN_TEST(test_rem_testcase5);
 
+  /*POWER*/
   RUN_TEST(test_power);
   RUN_TEST(test_power_testcase2);
   RUN_TEST(test_power_testcase3);
@@ -119,6 +127,7 @@ int main()
 }
 
 /* All the test functions */ 
+/*ADDITION*/
 void test_add(void)
 {
   TEST_ASSERT_EQUAL(30, add(10, 20));
@@ -142,6 +151,8 @@ void test_add_testcase5(void)
 {
   TEST_ASSERT_EQUAL(15000, add(7500, 7500));
 }
+
+/*SUBTRACTION*/
 void test_subtract(void) 
 {
   TEST_ASSERT_EQUAL(-3, subtract(0, 3));
@@ -167,7 +178,7 @@ void test_subtract_testcase5(void)
   TEST_ASSERT_EQUAL(100, subtract(1000, 900));
 }
 
-
+/*MULTIPLICATION*/
 void test_multiply(void) 
 {
   TEST_ASSERT_EQUAL(0, multiply(1, 0));
@@ -192,6 +203,7 @@ void test_multiply_testcase5(void)
   TEST_ASSERT_EQUAL(10, multiply(2, 5));
 }
 
+/*DIVISION*/
 void test_divide(void) 
 {
   TEST_ASSERT_EQUAL(0, divide(1, 0));
@@ -214,6 +226,7 @@ void test_divide_testcase5(void)
   TEST_ASSERT_EQUAL(1, divide(2, 2));
 }
 
+/*PERCENTAGE*/
 void test_percentage(void) 
 {
   TEST_ASSERT_EQUAL(0, percentage(1, 0));
@@ -239,7 +252,7 @@ void test_percentage_testcase5(void)
   TEST_ASSERT_EQUAL(40, percentage(2, 5));
 }
 
-
+/*GCD*/
 void test_gcd(void) 
 {
   TEST_ASSERT_EQUAL(1, gcd(1, 2));
@@ -265,6 +278,7 @@ void test_gcd_testcase5(void)
   TEST_ASSERT_EQUAL(1, gcd(2, 5));
 }
 
+/*REMAINDER*/
 void test_rem(void) 
 {
   TEST_ASSERT_EQUAL(1, rem(1, 2));
@@ -290,6 +304,7 @@ void test_rem_testcase5(void)
   TEST_ASSERT_EQUAL(1, rem(5, 4));
 }
 
+/*POWER*/
 void test_power(void) 
 {
   TEST_ASSERT_EQUAL (1, power(1, 2));
