@@ -4,20 +4,28 @@
 #include<string.h>
 int temp;
 
+//******************ADDITION FUNCTION****************************//
+
 float add(float num1, float num2)
 {
     return num1 + num2;
 }
+
+//******************SUBTRACTION FUNCTION****************************//
 
 float subtract(float num1, float num2)
 {
     return num1 - num2;
 }
 
+//******************MULTIPLICATION FUNCTION****************************//
+
 float multiply(float num1, float num2)
 {
     return num1 * num2;
 }
+
+//******************DIVISION FUNCTION****************************//
 
 float divide(float num1, float num2)
 {
@@ -26,7 +34,7 @@ float divide(float num1, float num2)
     else
         return (num1 / num2);
 }
-
+//******************GCD FUNCTION****************************//
 int gcd(int num3, int num4)
 {
     {
@@ -43,14 +51,8 @@ int gcd(int num3, int num4)
     }
     return num3;
 }
-    // if (num3==0)
-    //     return num3;
-    // else
-    // {   
-    //     int temp = (num3 % num4);
-    //     return gcd(num3, temp);
-    // }
-}
+
+//******************PERCENTAGE FUNCTION****************************//
 
 float percentage(float num1, float num2)
 {
@@ -60,10 +62,14 @@ float percentage(float num1, float num2)
         return (num1/num2)*100;
 }
 
+//******************REMAINDER FUNCTION****************************//
+
 int rem(int num3, int num4)
 {   int temp = num3 % num4;
     return temp ;
 }
+
+//******************POWER FUNCTION****************************//
 
 int power(int num3, int num4)
 {
