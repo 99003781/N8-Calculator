@@ -4,9 +4,33 @@
 void setUp(){}
 
 void tearDown(){}
-############################################   NEHA   ###################################################
+
+
+
+void sin_func_test(void);
+void cos_func_test(void);
+void tan_func_test(void);
+void cosec_func_test(void);
+void sec_func_test(void);
+void sin_func_test_1(void);
+void cos_func_test_1(void);  
+void tan_func_test_1(void);  
+void cosec_func_test_1(void); 
+void cot_func_test_1(void); 
+void sin_func_test_2(void);
+void cos_func_test_2(void); 
+void tan_func_test_2(void);  
+void cosec_func_test_2(void);
+void sec_func_test_2(void);
+void sin_func_test_3(void); 
+void cos_func_test_3(void);
+void tan_func_test_3(void); 
+void cosec_func_test_3(void);
+
+
 
 /* Prototypes for all the test functions */
+
 void test_add(void);
 void test_add_testcase2(void);
 void test_add_testcase3(void);
@@ -259,32 +283,7 @@ void test_power_testcase5(void)
   TEST_ASSERT_EQUAL(25, power(5, 2));
 }
 
-
-
-
-
-################################   AMAN     ################################################################
-
-
-void sin_func_test(void);
-void cos_func_test(void);
-void tan_func_test(void);
-void cosec_func_test(void);
-void sec_func_test(void);
-void sin_func_test_1(void);
-void cos_func_test_1(void);  
-void tan_func_test_1(void);  
-void cosec_func_test_1(void); 
-void cot_func_test_1(void); 
-void sin_func_test_2(void);
-void cos_func_test_2(void); 
-void tan_func_test_2(void);  
-void cosec_func_test_2(void);
-void sec_func_test_2(void);
-void sin_func_test_3(void); 
-void cos_func_test_3(void);
-void tan_func_test_3(void); 
-void cosec_func_test_3(void);  
+ 
   
   
 void sin_func_test(void)
@@ -396,7 +395,7 @@ int main(void)
      
      RUN_TEST(cot_func_test_1);
 
-/* ################################### */
+
 
      RUN_TEST(sin_func_test_2);
      RUN_TEST(tan_func_test_2);
@@ -405,14 +404,14 @@ int main(void)
      RUN_TEST(sec_func_test_2);
      
 
-/* ################################### */
+
 
      RUN_TEST(sin_func_test_3);
      RUN_TEST(tan_func_test_3);
      RUN_TEST(cos_func_test_3);
      RUN_TEST(cosec_func_test_3);
      
-     // ######################################################### NEHA   ##########################################
+    
 
 
      RUN_TEST(test_add);
