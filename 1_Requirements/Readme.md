@@ -35,7 +35,6 @@ The designed product has all the necessary features required by the undergraduat
 # Detail requirements
 ## High Level Requirements:
 
-![hhh](https://user-images.githubusercontent.com/78873487/107897794-12ed0980-6f60-11eb-9519-5463f26e2c94.png)
 
 ## Contributors List and Summary
 
@@ -51,7 +50,7 @@ PS No.   |  Name          |    Features                    | Issuess  | Raised |
 
 ##  Low level Requirements:
 
-![LLR whole](https://user-images.githubusercontent.com/78873487/107908142-5739d300-6f7b-11eb-9031-32eb215a6ff4.PNG)
+
 
 PS No.   |  Name            |    Description                     | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 ---------|------------------|------------------------------------|----------------|---------------|-------------|--------------
