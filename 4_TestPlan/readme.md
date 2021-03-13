@@ -33,10 +33,15 @@
 
 
 ## Area Calculation
-|**Test ID |	Description	Exp IN   |	Exp OUT  |	Actual Out	|Type Of Test|
-|H_01	  |    Area of square      |           |              |Requirement based|
-|H_02	  |    Area of triangle    |           |              |Requirement based|                       
-|H_04    |    Area of circumstance|           |              |Requirement based|
+## Contributors List and Summary
+
+PS No.   |  Name          |    Features                    | Issuess  | Raised |Issues Resolved|No Test Cases|Test Case Pass
+---------|----------------|-----------------------------   |----------|--------|---------------|-------------|--------------
+99003779 | Neha Tabassum  | Basic Arithmetic Calculation   | X No     | X No   |X No           |   X No     
+99003781 | Aman Shivachh  | Basic Trigonometry Calculation | X No     | X No   |X No           |   X No     
+99003776 | Pawan Kumar    | Area Calculator                | X No     | X No   |X No           |   X No     
+99003780 | G Sai Kiran    |Conversion                      | X No     | X No   |X No           |   X No     
+99003780 | G Sai Kiran    | Highly precise                 | X No     | X No   |X No           |   X No     
 
 
 
