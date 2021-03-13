@@ -1,5 +1,3 @@
-![Test case plan detail](https://user-images.githubusercontent.com/78869826/107883359-9a149000-6f14-11eb-9ca9-2badfe4bbc29.JPG)
-
 
 # TEST PLAN:
 
@@ -45,11 +43,7 @@ H_04    |   Area of circumstance |           |               |
 
 
 
-![approach](https://user-images.githubusercontent.com/78869826/107884342-7d7b5680-6f1a-11eb-9e90-1308672d7576.JPG)
 
-![Requirement](https://user-images.githubusercontent.com/78869826/107884596-e1524f00-6f1b-11eb-8d53-d013ed138449.JPG)
-
-![performance testing](https://user-images.githubusercontent.com/78869826/107885755-03e76680-6f22-11eb-9015-2ed40bf984cc.JPG)
 
 
 
