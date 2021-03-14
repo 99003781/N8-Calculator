@@ -30,8 +30,8 @@ PS No.   |  Name            |    Description                     | Issuess Raise
 99003779 | Neha Tabassum    | Remainder() function               | X NO           | x No          |5         |5
 99003779 | Neha Tabassum    | GCD() function                     | X NO           | x No          |5         |5
 99003779 | Neha Tabassum    | Power() function                   | X NO           | x No          |5         |5
-99003780 |   G Sai Kiran    | Binary() function                  | X No           | X No          |X No         |X No     
-99003780 |  G Sai Kiran     | octal() function                   | X NO           | x No          |x No         |x No
+99003780 |   G Sai Kiran    | Binary() function                  | X No           | X No          |2         |2   
+99003780 |  G Sai Kiran     | octal() function                   | X NO           | x No          |1         |1
 99003781 |   Aman Shivachh  | Degree to radian() function        | X No           | X No          |X No         |X No     
 99003781 |  Aman Shivachh   | Radian to degree() function        | X NO           | x No          |x No         |x No
 99003776 | Pawan Kumar      | triangle area() function           | X No           | X No          |1         |1     
