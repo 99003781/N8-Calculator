@@ -21,6 +21,15 @@
 
 ![LLR_TP_Sub](https://user-images.githubusercontent.com/78867425/107875224-9f59e680-6ee4-11eb-9c0c-dc7c00213b51.PNG)
 
+![LLR_TP_percentage](https://user-images.githubusercontent.com/78867425/111060577-ed521200-84c3-11eb-97c5-e6e6d95f9b0f.PNG)
+
+![LLR_TP_power](https://user-images.githubusercontent.com/78867425/111060578-ee833f00-84c3-11eb-8b51-fd26a89d915a.PNG)
+
+![LLR_TP_rem](https://user-images.githubusercontent.com/78867425/111060580-efb46c00-84c3-11eb-9ff4-acc0172c8248.PNG)
+
+![LLR_TP_gcd](https://user-images.githubusercontent.com/78867425/111060583-f4792000-84c3-11eb-8b8d-9d3c1c756e83.PNG)
+
+
 ## Trigonometry
 ![llrTrigon](https://user-images.githubusercontent.com/78873487/107903865-55b6dd80-6f70-11eb-8b56-900a40c8313a.PNG)
 
