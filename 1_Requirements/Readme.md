@@ -40,11 +40,11 @@ The designed product has all the necessary features required by the undergraduat
 
 PS No.   |  Name          |    Features                    | Issuess  | Raised |Issues Resolved|No Test Cases|Test Case Pass
 ---------|----------------|-----------------------------   |----------|--------|---------------|-------------|--------------
-99003779 | Neha Tabassum  | Basic Arithmetic Calculation   | X No     | X No   |X No           |   X No      |
-99003781 | Aman Shivachh  | Basic Trigonometry Calculation | X No     | X No   |X No           |   X No      |
-99003776 | Pawan Kumar    | Area Calculator                | X No     | X No   |X No           |   X No      |
-99003780 | G Sai Kiran    |Conversion                      | X No     | X No   |X No           |   x No      |
-99003780 | G Sai Kiran    | Highly precise                 | X No     | X No   |X No           |   X No      |
+99003779 | Neha Tabassum  | Basic Arithmetic Calculation   |   X No   |  X No  |      X No     |     X No    |    X No
+99003781 | Aman Shivachh  | Basic Trigonometry Calculation |   X No   |  X No  |      X No     |     X No    |    X No
+99003776 | Pawan Kumar    | Area Calculator                |   X No   |  X No  |      X No     |     X No    |    X No
+99003780 | G Sai Kiran    |Conversion                      |   X No   |  X No  |      X No     |     x No    |    X No
+99003780 | G Sai Kiran    | Highly precise                 |   X No   |  X No  |      X No     |     X No    |    X No
  
 
 
@@ -55,20 +55,20 @@ PS No.   |  Name          |    Features                    | Issuess  | Raised |
 
 PS No.   |  Name            |    Description                     | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 ---------|------------------|------------------------------------|----------------|---------------|-------------|--------------
-99003779 | Neha Tabassum    | Addition() function                | X No           | X No          |5         |5    
-99003779 | Neha Tabassum    | Subtraction() function             | X NO           | x No          | 5        |5
-99003779 | Neha Tabassum    | Multiplication() function          | X No           | X No          |5         |5     
-99003779 | Neha Tabassum    | Division() function                | X NO           | x No          |5         |5
-99003779 | Neha Tabassum    | Percentage() function              | X NO           | x No          |5         |5
-99003779 | Neha Tabassum    | Remainder() function               | X NO           | x No          |5         |5
-99003779 | Neha Tabassum    | GCD() function                     | X NO           | x No          |5         |5
-99003779 | Neha Tabassum    | Power() function                   | X NO           | x No          |5         |5
-99003780 |   G Sai Kiran    | Binary() function                  | X No           | X No          |12         |12   
-99003780 |  G Sai Kiran     | octal() function                   | X NO           | x No          |6         |6
-99003781 |   Aman Shivachh  | Degree to radian() function        | X No           | X No          |10        |10     
-99003781 |  Aman Shivachh   | Radian to degree() function        | X NO           | x No          |10         |10
-99003776 | Pawan Kumar      | triangle area() function           | X No           | X No          |2        |2     
-99003776 | Pawan Kumar      | square area() function             | X NO           | x No          |2         |2
-99003776 | Pawan Kumar      | rectangular area() function        | X No           | X No          |2         |2    
-99003776 | Pawan Kumar      | circum area() function             | X NO           | x No          |2         |2
+99003779 | Neha Tabassum    | Addition() function                |      X No      |      X No     |      5      |      5    
+99003779 | Neha Tabassum    | Subtraction() function             |      X NO      |      X No     |      5      |      5
+99003779 | Neha Tabassum    | Multiplication() function          |      X No      |      X No     |      5      |      5     
+99003779 | Neha Tabassum    | Division() function                |      X NO      |      X No     |      5      |      5
+99003779 | Neha Tabassum    | Percentage() function              |      X NO      |      X No     |      5      |      5
+99003779 | Neha Tabassum    | Remainder() function               |      X NO      |      X No     |      5      |      5
+99003779 | Neha Tabassum    | GCD() function                     |      X NO      |      X No     |      5      |      5
+99003779 | Neha Tabassum    | Power() function                   |      X NO      |      X No     |      5      |      5
+99003780 |   G Sai Kiran    | Binary() function                  |      X No      |      X No     |      12     |      12
+99003780 |  G Sai Kiran     | octal() function                   |      X NO      |      X No     |      6      |      6
+99003781 |   Aman Shivachh  | Degree to radian() function        |      X No      |      X No     |      10     |      10     
+99003781 |  Aman Shivachh   | Radian to degree() function        |      X NO      |      X No     |      10     |      10
+99003776 | Pawan Kumar      | triangle area() function           |      X No      |      X No     |      2      |      2     
+99003776 | Pawan Kumar      | square area() function             |      X NO      |      X No     |      2      |      2
+99003776 | Pawan Kumar      | rectangular area() function        |      X No      |      X No     |      2      |      2    
+99003776 | Pawan Kumar      | circum area() function             |      X NO      |      X No     |      2      |      2
 
