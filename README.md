@@ -34,16 +34,17 @@ PS No.   |  Name            |    Description                     | Issuess Raise
 99003780 |  G Sai Kiran     | octal() function                   | X NO           | x No          |x No         |x No
 99003781 |   Aman Shivachh  | Degree to radian() function        | X No           | X No          |X No         |X No     
 99003781 |  Aman Shivachh   | Radian to degree() function        | X NO           | x No          |x No         |x No
-99003776 | Pawan Kumar      | triangle area() function           | X No           | X No          |X No         |X No     
-99003776 | Pawan Kumar      | square area() function             | X NO           | x No          |x No         |x No
-99003776 | Pawan Kumar      | rectangular area() function        | X No           | X No          |X No         |X No     
-99003776 | Pawan Kumar      | circum area() function             | X NO           | x No          |x No         |x No
+99003776 | Pawan Kumar      | triangle area() function           | X No           | X No          |1         |1     
+99003776 | Pawan Kumar      | square area() function             | X NO           | x No          |1         |1
+99003776 | Pawan Kumar      | rectangular area() function        | X No           | X No          |1         |1    
+99003776 | Pawan Kumar      | circum area() function             | X NO           | x No          |1         |1
 ## Challenges Faced and How Was It Overcome
 
-1. ABC
-2. BCD
-3. ...
-4. ...
+1. Found difficulty in writing the make file but with the help of collegues we are able to make our own make file
+2. Initially it was difficult to understand the functions in test cases, but with self and group study we resolved the problems
+3. Code debugging was a bit time consuming, but with brainstorming we excel it.
+4. Integration of individual codes was difficult to understand, but with peer support, we did it. 
+
 
 ## Learning Resources
 1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
