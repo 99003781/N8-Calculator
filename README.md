@@ -22,11 +22,11 @@ Folder             | Description
 
 PS No.   |  Name            |    Description                     | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 ---------|------------------|------------------------------------|----------------|---------------|-------------|--------------
-99003779 | Neha Tabassum    | Addition() function                | X No           | X No          |5         |5    
-99003779 | Neha Tabassum    | Subtraction() function             | X NO           | x No          | 5        |5
-99003779 | Neha Tabassum    | Multiplication() function          | X No           | X No          |5         |5     
-99003779 | Neha Tabassum    | Division() function                | X NO           | x No          |5         |5
-99003779 | Neha Tabassum    | Percentage() function              | X NO           | x No          |5         |5
+99003779 | Neha Tabassum    | Addition() function                |      X No      |     X No      |      5      |     5    
+99003779 | Neha Tabassum    | Subtraction() function             |      X NO      |     X No      |      5      |     5
+99003779 | Neha Tabassum    | Multiplication() function          |      X No      |     X No      |      5      |     5     
+99003779 | Neha Tabassum    | Division() function                |      X NO      |     X No      |      5      |     5
+99003779 | Neha Tabassum    | Percentage() function              |      X NO      |     X No      |      5      |     5
 99003779 | Neha Tabassum    | Remainder() function               | X NO           | x No          |5         |5
 99003779 | Neha Tabassum    | GCD() function                     | X NO           | x No          |5         |5
 99003779 | Neha Tabassum    | Power() function                   | X NO           | x No          |5         |5
