@@ -40,6 +40,13 @@
 | H\_02           | Decimal to binary | 55 | 45 | Requirement based |
 | H\_03           | Decimal to octal | 1110 | 16 | Requirement based |
 
+| **Test**** ID **|** Description **|** Expected ****input** | **Expected**** output **|** Type of test** |
+| ---             | --- | --- | --- | --- |
+| L\_01           | Binary to decimal | 1010 101 111111 11101 11101 110 | 10 5 63 29 14 6| Requirement based |
+| L\_02           | Decimal to binary | 55 | 45 | Requirement based |
+| L\_03           | Decimal to octal | 1110 | 16 | Requirement based |
+
+
 
 ## Area Calculation
 
