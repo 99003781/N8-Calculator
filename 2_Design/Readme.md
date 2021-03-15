@@ -47,10 +47,9 @@
 ## Structural Diagram:
 
 <img width="620" alt="structural class diagram LLR" src="https://user-images.githubusercontent.com/78869826/107886645-1f08a500-6f27-11eb-9d2d-0934907b3707.PNG">
-## Low Level requirements:
-## Behavioural state Diagram:
 
-<img width="712" alt="Behavioral State Diadram LLR" src="https://user-images.githubusercontent.com/78869826/107886729-e2897900-6f27-11eb-912b-66dcd4049f21.PNG">
+
+
 
 
 
