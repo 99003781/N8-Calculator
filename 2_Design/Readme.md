@@ -1,7 +1,9 @@
 # Design
 
 ## High Level Design
-![cal whole HHL](https://user-images.githubusercontent.com/78873487/107906789-05437e00-6f78-11eb-8c8f-79d489e64a90.PNG)
+
+![pawan kumar](https://user-images.githubusercontent.com/78869826/111104624-1aabc800-8577-11eb-8e4b-111fcc285d3d.PNG)
+
 
 
 ## Structural Diagram:
