@@ -29,16 +29,16 @@ PS No.   |  Name            |    Description                     | Issuess Raise
 99003779 | Neha Tabassum    | Percentage() function              |       NO      |      No      |      5      |     5
 99003779 | Neha Tabassum    | Remainder() function               | 1          | 1          |5         |5
 99003779 | Neha Tabassum    | GCD() function                     | 1          | 1          |5         |5
-99003779 | Neha Tabassum    | Power() function                   | X NO           | x No          |5         |5
-99003780 |   G Sai Kiran    | Binary() function                  | 1 No           | 1 No          |6         |6
-99003780 |  G Sai Kiran     | decimal() function                   | 1 NO           | 1 No        |6         |6
-99003780 |  G Sai Kiran     | octal() function                   | X NO           | x No          |6         |6
-99003781 |   Aman Shivachh  | Degree to radian() function        | X No           | X No          |10        |10     
-99003781 |  Aman Shivachh   | Radian to degree() function        | X NO           | x No          |10         |10
-99003776 | Pawan Kumar      | triangle area() function           | X No           | X No          |2        |2     
-99003776 | Pawan Kumar      | square area() function             | X NO           | x No          |2         |2
-99003776 | Pawan Kumar      | rectangular area() function        | X No           | X No          |2         |2    
-99003776 | Pawan Kumar      | circum area() function             | X NO           | x No          |2         |2
+99003779 | Neha Tabassum    | Power() function                   |  NO           |  No          |5         |5
+99003780 |   G Sai Kiran    | Binary() function                  | 1            | 1          |6         |6
+99003780 |  G Sai Kiran     | decimal() function                   | 1          | 1         |6         |6
+99003780 |  G Sai Kiran     | octal() function                   |  NO           |  No          |6         |6
+99003781 |   Aman Shivachh  | Degree to radian() function        |  2           |  2          |10        |10     
+99003781 |  Aman Shivachh   | Radian to degree() function        | 1           |  1          |10         |10
+99003776 | Pawan Kumar      | triangle area() function           |  2           |  2          |2        |2     
+99003776 | Pawan Kumar      | square area() function             |  NO           |  No          |2         |2
+99003776 | Pawan Kumar      | rectangular area() function        | 1           |  1         |2         |2    
+99003776 | Pawan Kumar      | circum area() function             |  1           |  1          |2         |2
 ## Challenges Faced and How Was It Overcome
 
 1. Found difficulty in writing the make file but with the help of collegues we are able to make our own make file
