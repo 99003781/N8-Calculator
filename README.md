@@ -22,15 +22,16 @@ Folder             | Description
 
 PS No.   |  Name            |    Description                     | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 ---------|------------------|------------------------------------|----------------|---------------|-------------|--------------
-99003779 | Neha Tabassum    | Addition() function                |      X No      |     X No      |      5      |     5    
-99003779 | Neha Tabassum    | Subtraction() function             |      X NO      |     X No      |      5      |     5
-99003779 | Neha Tabassum    | Multiplication() function          |      X No      |     X No      |      5      |     5     
-99003779 | Neha Tabassum    | Division() function                |      X NO      |     X No      |      5      |     5
-99003779 | Neha Tabassum    | Percentage() function              |      X NO      |     X No      |      5      |     5
-99003779 | Neha Tabassum    | Remainder() function               | X NO           | x No          |5         |5
-99003779 | Neha Tabassum    | GCD() function                     | X NO           | x No          |5         |5
+99003779 | Neha Tabassum    | Addition() function                |      1       |     1       |      5      |     5    
+99003779 | Neha Tabassum    | Subtraction() function             |      1     |     1       |      5      |     5
+99003779 | Neha Tabassum    | Multiplication() function          |       No      |     No      |      5      |     5     
+99003779 | Neha Tabassum    | Division() function                |       NO      |      No      |      5      |     5
+99003779 | Neha Tabassum    | Percentage() function              |       NO      |      No      |      5      |     5
+99003779 | Neha Tabassum    | Remainder() function               | 1          | 1          |5         |5
+99003779 | Neha Tabassum    | GCD() function                     | 1          | 1          |5         |5
 99003779 | Neha Tabassum    | Power() function                   | X NO           | x No          |5         |5
-99003780 |   G Sai Kiran    | Binary() function                  | X No           | X No          |12         |12   
+99003780 |   G Sai Kiran    | Binary() function                  | 1 No           | 1 No          |6         |6
+99003780 |  G Sai Kiran     | decimal() function                   | 1 NO           | 1 No        |6         |6
 99003780 |  G Sai Kiran     | octal() function                   | X NO           | x No          |6         |6
 99003781 |   Aman Shivachh  | Degree to radian() function        | X No           | X No          |10        |10     
 99003781 |  Aman Shivachh   | Radian to degree() function        | X NO           | x No          |10         |10
