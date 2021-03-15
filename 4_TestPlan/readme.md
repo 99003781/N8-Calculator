@@ -34,13 +34,13 @@
 ![llrTrigon](https://user-images.githubusercontent.com/78873487/107903865-55b6dd80-6f70-11eb-8b56-900a40c8313a.PNG)
 
 ## Number conversion
-| **Test**** ID **|** Description **|** Expected ****input** | **Expected**** output **|** Type of test** |
-| ---             | --- | --- | --- | --- |
+| **Test**** ID **|** Description ** |** Expected ****input** | **Expected**** output **|** Type of test** |
+| -------         | -------| ------ | ----- | ----- |
 | H\_01           | Binary to decimal | 1010 | 10 | Requirement based |
 | H\_02           | Decimal to binary | 55 | 45 | Requirement based |
 | H\_03           | Decimal to octal | 1110 | 16 | Requirement based |
 
-| **Test**** ID **|** Description **|** Expected ****input** | **Expected**** output **|** Type of test** |
+| **Test**** ID **|** Description ** |** Expected ****input** | **Expected**** output **|** Type of test** |
 | ---             | --- | --- | --- | --- |
 | L\_01           | Binary to decimal | 1010 | 10 | Requirement based |
 |                 |                   | 101  | 5  |                   |
