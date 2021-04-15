@@ -36,12 +36,7 @@ The designed product has all the necessary features required by the undergraduat
 # Detail requirements
 ## High Level Requirements:
 
-ID |	Requirements|	Description|	Status
-----|-----------|-------------|-------
-LLR_01|	Addition|	Takes two numbers as an  input and adds them	|Implemented
-LLR_02	|Subtraction|	Takes two numbers as an input and subtracts them	|Implemented
-LLR_03|	Multiplication|	Takes two numbers as an input and multiplies them	|Implemented
-LLR_04|	Division|	Takes two numbers as an input and divides them	|Implemented
+
 
 ## Contributors List and Summary
 
@@ -56,7 +51,43 @@ PS No.   |  Name          |    Features                    | Issuess  | Raised |
 
 ##  Low level Requirements:
 
+1. Arithmetic Operations:
+ID |	Requirements|	Description|	Status
+----|-----------|-------------|-------
+LLR_01|	Addition|	Takes two numbers as an  input and adds them	|Implemented
+LLR_02	|Subtraction|	Takes two numbers as an input and subtracts them	|Implemented
+LLR_03|	Multiplication|	Takes two numbers as an input and multiplies them	|Implemented
+LLR_04|	Division|	Takes two numbers as an input and divides them	|Implemented
+LLR_05|	Percentage|	Takes two numbers as an input and calculate percentage of one number with the other|	Implemented
+LLR_06|	Greatest Common Divisor(GCD)|	Takes two numbers and calculate their GCD|	Implemented
+ 
+2. Percentage and Power: 
+ID|	Requirements|	Description|	Status
+----|-----------|------------|-------
+LLR_01|	Percentage|	Calculates percentage of two numbers|	Implemented
+LLR_02	Power|	Calculates power of one number raised to the other|	Implemented
 
+3. Trigonometric Functions:
+ID|	Requirements|	Description|	Status
+--|-------------|-----------|-------
+LLR_01|	Sine Function|	Calculate sine function of a number in both degree and radian |	Implemented
+LLR_02|	Cosine Function|	Calculate cosine function of a number in both degree and radian|	Implemented
+LLR_03|	Tangent Function	Calculate tan function of a number in both degree and radian|	Implemented
+
+4. Number conversions:
+ID|	Requirements|	Description|	Status
+--|-------------|------------|------
+LLR_01|	Binary Function|	Convert binary number to decimal number|	Implemented
+LLR_02|	Decimal Function|	Convert Decimal number to binary number|	Implemented
+LLR_03|	Octal Function|	Convert Decimal to octal number|	Implemented
+
+5. Area Calculator: 
+ID|	Requirements|	Description|	Status
+--|-------------|------------|------
+LLR_01|	Square Function	|Calculate area of a square|	Implemented
+LLR_02|	Rectangle Function|	Calculate area of a rectangle|	Implemented
+LLR_03|Circle Function	Calculate| area of a Circle|	Implemented
+LLR_04|Triangle Function|	Calculate area of a Triangle|	Implemented
 
 
 PS No.   |  Name            |    Description                     | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
