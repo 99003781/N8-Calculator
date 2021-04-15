@@ -38,11 +38,11 @@ The designed product has all the necessary features required by the undergraduat
 
 ID|	Requirements|	Description|	Status
 ---|------------|------------|-------
-HLR_01| Arithmetic operations	Addition, Subtraction, Multiplication, Division, Remainder, GCD|	Implemented
-HLR_02|	Percentage and power	Calculates percentage of one number wrt to another and raised to power of a number to the number provided.|	Implemented
-HLR_03| Trigonometric functions	Sine, cosine, tangent functions|	Implemented
-HLR_04| Number Conversions	Converts Binary to Decimal, Decimal to Binary and Decimal to Octal.|	Implemented
-HLR_05|	Area Calculation	Calculates area of Square, Rectangle, Triangle and circle.| 	Implemented
+HLR_01| Arithmetic operations|	Addition, Subtraction, Multiplication, Division, Remainder, GCD|	Implemented
+HLR_02|	Percentage and power|	Calculates percentage of one number wrt to another and raised to power of a number to the number provided.|	Implemented
+HLR_03| Trigonometric functions|	Sine, cosine, tangent functions|	Implemented
+HLR_04| Number Conversions|	Converts Binary to Decimal, Decimal to Binary and Decimal to Octal.|	Implemented
+HLR_05|	Area Calculation|	Calculates area of Square, Rectangle, Triangle and circle.| 	Implemented
 
 
 ## Contributors List and Summary
