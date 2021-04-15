@@ -36,6 +36,12 @@ The designed product has all the necessary features required by the undergraduat
 # Detail requirements
 ## High Level Requirements:
 
+ID |	Requirements|	Description|	Status
+----|-----------|-------------|-------
+LLR_01|	Addition	Takes two numbers as an  input and adds them	|Implemented
+LLR_02	|Subtraction	Takes two numbers as an input and subtracts them	|Implemented
+LLR_03|	Multiply	Takes two numbers as an input and multiplies them	|Implemented
+LLR_04|	Divide	Taking two numbers as an input and divides them	|Implemented
 
 ## Contributors List and Summary
 
