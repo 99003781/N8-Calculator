@@ -2,7 +2,8 @@
 
 ## High Level Design
 
-![pawan kumar](https://user-images.githubusercontent.com/78869826/111104624-1aabc800-8577-11eb-8e4b-111fcc285d3d.PNG)
+![calculatior](https://user-images.githubusercontent.com/78869826/114840381-619a1100-9df4-11eb-8ddc-1c51995c2b7d.PNG)
+
 
 
 
