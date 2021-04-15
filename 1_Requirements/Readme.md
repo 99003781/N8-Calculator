@@ -52,6 +52,7 @@ PS No.   |  Name          |    Features                    | Issuess  | Raised |
 ##  Low level Requirements:
 
 1. Arithmetic Operations:
+
 ID |	Requirements|	Description|	Status
 ----|-----------|-------------|-------
 LLR_01|	Addition|	Takes two numbers as an  input and adds them	|Implemented
@@ -62,12 +63,14 @@ LLR_05|	Percentage|	Takes two numbers as an input and calculate percentage of on
 LLR_06|	Greatest Common Divisor(GCD)|	Takes two numbers and calculate their GCD|	Implemented
  
 2. Percentage and Power: 
+
 ID|	Requirements|	Description|	Status
 ----|-----------|------------|-------
 LLR_01|	Percentage|	Calculates percentage of two numbers|	Implemented
 LLR_02	Power|	Calculates power of one number raised to the other|	Implemented
 
 3. Trigonometric Functions:
+
 ID|	Requirements|	Description|	Status
 --|-------------|-----------|-------
 LLR_01|	Sine Function|	Calculate sine function of a number in both degree and radian |	Implemented
@@ -75,6 +78,7 @@ LLR_02|	Cosine Function|	Calculate cosine function of a number in both degree an
 LLR_03|	Tangent Function	Calculate tan function of a number in both degree and radian|	Implemented
 
 4. Number conversions:
+
 ID|	Requirements|	Description|	Status
 --|-------------|------------|------
 LLR_01|	Binary Function|	Convert binary number to decimal number|	Implemented
@@ -82,6 +86,7 @@ LLR_02|	Decimal Function|	Convert Decimal number to binary number|	Implemented
 LLR_03|	Octal Function|	Convert Decimal to octal number|	Implemented
 
 5. Area Calculator: 
+
 ID|	Requirements|	Description|	Status
 --|-------------|------------|------
 LLR_01|	Square Function	|Calculate area of a square|	Implemented
